@@ -1,0 +1,16 @@
+{
+  "name": "tsconfig",
+  "version": "0.0.0",
+  "description": "TSconfig",
+  "author": "Enrique Ramírez <hello@enrique-ramirez.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "base.json",
+    "vite.json"
+  ]
+}
